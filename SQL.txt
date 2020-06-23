@@ -2,7 +2,7 @@ show databases;
 
 show tables;
 
-createdatabases if not exists; creates new database
+create databases if not exists world; creates new database
 
 use world; selects the table
 
